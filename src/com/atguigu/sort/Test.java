@@ -8,7 +8,6 @@ import java.util.Arrays;
  */
 public class Test {
     public static void main(String[] args) {
-        // 不错不错
         // 测试复杂度,给80000个数据，测试,,JVM能够调优0.1秒
 //        冒泡排序用时：11054 ms,合计 11 秒O(n^2)
 //        简单选择：排序用时：3067 ms,合计 3 秒O(n^2)
